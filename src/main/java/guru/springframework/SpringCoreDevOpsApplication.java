@@ -18,6 +18,6 @@ public class SpringCoreDevOpsApplication {
 
 		//101st test
 
-		//200 artifact test
+		//200 artifact testing
 	}
 }
